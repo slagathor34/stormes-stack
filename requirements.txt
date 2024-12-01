@@ -1,3 +1,5 @@
-pytest
-azure-mgmt-resource
 azure-identity
+azure-mgmt-resource
+pytest
+pytest-cov
+sphinx
